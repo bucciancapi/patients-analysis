@@ -1,6 +1,10 @@
 import sys
+
 """Adding documentation localy"""
+"""Aading documentation remotely"""
+
 count = 0
+
 for line in sys.stdin:
     count += 1
 
